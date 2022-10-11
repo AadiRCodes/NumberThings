@@ -1,0 +1,2 @@
+# Number Programs
+This is my very beta, very early stage of all of my code that I have worked on involving numerical methods and numerical analysis, and generic numerical programs. Right now, it can solve arbitrary polynomials through Muller's Method, solve equations through Newton's Method, Secant Method, and the Bisection Method, and can now take derivatives of arbitrary functions to about 10 digits, although that still has to be refined.
